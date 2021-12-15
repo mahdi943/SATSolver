@@ -1,6 +1,6 @@
 # SAT Solver
 
-Implementing in Python two SAT solvers based on the DPLL algorithm, which differ in the heuristic they use to select the variable to branch on. 
+Two SAT solvers based on the DPLL algorithm, which differ in the heuristic they use to select the variable to branch on. 
 
 Both SAT solvers take their input in DIMACS CNF format. 
 
